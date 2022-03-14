@@ -20,3 +20,4 @@
 - 18.Сети ZigBee
 - 19.Наложенные сети TRILL, FabricPath
 - 20.Наложенные сети OTV, LISP
+- Mikrotik RouterOS ВМ: https://disk.yandex.ru/d/zW8dPQoXnwr7yg
