@@ -1,7 +1,8 @@
 # ПТСиС
 ____________________________________
 К лабораторной #2 для теста скорости можно использовать утилиту Bandwidth test
-https://www.mikc.ru/document/statii/izmerenie_propusknoy_sposobnosti_s_pomoshchyu_bandwidth_test/
+[ссылка на статью с использованием утилиты](https://www.mikc.ru/document/statii/izmerenie_propusknoy_sposobnosti_s_pomoshchyu_bandwidth_test/)
+Саму утилиту можно скачать на сайте [mikrotik.com](mikrotik.com) в разделе software
 
 Добавить клиента L2TP в Windows по аналогии с первой лабораторной, подключиться к настроенному серверу.
 
