@@ -1,8 +1,7 @@
 <!---
 
-your comment goes here
-
-and here
+Спойлер к лабам, можно считать за пасхалку)
+https://risovach.ru/upload/2017/06/mem/podorozhnik_147269240_orig_.jpg
 
 -->
 # ПТСиС
